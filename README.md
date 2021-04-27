@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asfandyar29, (Computer Systems Engineer)
+- 👋 Hi, I’m Asfandyar Khan,  (Computer Systems Engineer, App Developer, Database Developer, Machine Learning Expert)
 - 👀 I’m interested in Artificial intelligence, Machine Learning, Data Science and App Development
 - 🌱 I’m currently learning APP Development in Flutter (Dart) and Machine Learning. 
 - 💞️ I’m looking to collaborate on my Github Profile (Asfandyar29) in regard of my projects and apps that are under development
